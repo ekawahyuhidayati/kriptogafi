@@ -1,2 +1,2 @@
 # kriptogafi
-Enkripsi dan Deskripsi text
+Enkripsi dan Deskripsi text Dengan XOR Python
